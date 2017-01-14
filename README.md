@@ -1,3 +1,5 @@
+本家のものから、MondoDBのinstallシェルがエラーで動かなかったものを対処しました。
+
 # DPlatform
 
 [![DP Shell](https://raw.githubusercontent.com/DFabric/DPlatform-ShellCore/gh-pages/img/deploy.png)](https://dfabric.github.io/DPlatform-ShellCore)
